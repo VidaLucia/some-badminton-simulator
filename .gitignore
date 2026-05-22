@@ -1,0 +1,5 @@
+.venv
+/data/*
+/videos/*
+/frames/*
+video.txt
