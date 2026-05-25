@@ -1,8 +1,7 @@
 .venv
-/data/*
-/videos/*
-/frames/*
-/filterFrames/*
+/dataset/*
 video.txt
 temp2.py
 annotations.xml
+yolov8n-pose.pt
+/runs/*
